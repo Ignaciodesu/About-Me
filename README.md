@@ -7,11 +7,11 @@ Project-nya beragam — dari eksperimen kecil, sampai sesuatu yang (mudah-mudaha
 
 ---
 
-## 📂 Daftar Project
+## Daftar Project
 Beberapa project yang ada di repo ini:
-- 🔧 **[Nama Project 1](link)** – Deskripsi singkat (misal: aplikasi CLI sederhana untuk hitung sesuatu).
-- 🌐 **[Nama Project 2](link)** – Deskripsi singkat (misal: website mini untuk latihan front-end).
-- 🤖 **[Nama Project 3](link)** – Deskripsi singkat (misal: bot otomatisasi atau eksperimen AI).
+-  **[Nama Project 1](link)** – Deskripsi singkat (misal: aplikasi CLI sederhana untuk hitung sesuatu).
+-  **[Nama Project 2](link)** – Deskripsi singkat (misal: website mini untuk latihan front-end).
+-  **[Nama Project 3](link)** – Deskripsi singkat (misal: bot otomatisasi atau eksperimen AI).
 - ...dan lainnya!
 
 > Catatan: Bahasa pemrograman yang kupakai bisa berbeda-beda di tiap project.  
@@ -20,10 +20,10 @@ Beberapa project yang ada di repo ini:
 ---
 
 ## Tujuan
-- Belajar berbagai teknologi 🔍  
-- Eksperimen ide-ide random 💡  
-- Dokumentasi perjalanan koding 💻  
-- Siapa tahu bisa bermanfaat untuk orang lain ✨
+- Belajar berbagai teknologi 
+- Eksperimen ide-ide random 
+- Dokumentasi perjalanan koding 
+- Siapa tahu bisa bermanfaat untuk orang lain 
 
 ---
 
@@ -40,8 +40,10 @@ Karena ini koleksi project, bahasanya campur:
 
 ## Kontak
 Kalau mau diskusi, kasih feedback, atau sekadar say hi:  
-- 💌 Email: ignaciopascual.naidy@gmail.com 
-- 🐦 Twitter: [link]  
-- 💼 LinkedIn: [link]  
+-  Email: ignaciopascual.naidy@gmail.com 
+-  Instagram: ignaciopascualn
+-  LinkedIn: www.linkedin.com/in/ignacio-pascual-a60218187
+
+  
 
 
