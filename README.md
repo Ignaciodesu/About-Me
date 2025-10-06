@@ -9,7 +9,7 @@ Project-nya beragam — dari eksperimen kecil, sampai sesuatu yang (mudah-mudaha
 
 ## Daftar Project
 Beberapa project yang ada di repo ini:
--  **Tastely** – Deskripsi singkat : Aplikasi AI chatbot rekomendasi makanan berbasis cloud 
+-  **https://github.com/kntg/Tastely** – Deskripsi singkat : Aplikasi AI chatbot rekomendasi makanan berbasis cloud 
 -  **https://github.com/kntg/Traffic-Congestion-Analysis-Using-YOLOv12-and-Quantitative-Metrics-for-Intelligent-Urban-Mobility#** – Deskripsi singkat Computer Vision dengan tujuan mendeteksi kemacetan di lokasi tertentu
 -  **[Nama Project 3](link)** – Deskripsi singkat
 - ...dan lainnya!
