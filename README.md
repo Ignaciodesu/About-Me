@@ -9,9 +9,9 @@ Project-nya beragam — dari eksperimen kecil, sampai sesuatu yang (mudah-mudaha
 
 ## Daftar Project
 Beberapa project yang ada di repo ini:
--  **[Nama Project 1](link)** – Deskripsi singkat (misal: aplikasi CLI sederhana untuk hitung sesuatu).
--  **[Nama Project 2](link)** – Deskripsi singkat (misal: website mini untuk latihan front-end).
--  **[Nama Project 3](link)** – Deskripsi singkat (misal: bot otomatisasi atau eksperimen AI).
+-  **Tastely** – Deskripsi singkat : Aplikasi AI chatbot rekomendasi makanan berbasis cloud 
+-  **[Nama Project 2](link)** – Deskripsi singkat 
+-  **[Nama Project 3](link)** – Deskripsi singkat
 - ...dan lainnya!
 
 > Catatan: Bahasa pemrograman yang kupakai bisa berbeda-beda di tiap project.  
@@ -31,7 +31,9 @@ Beberapa project yang ada di repo ini:
 Karena ini koleksi project, bahasanya campur:  
 - Python  
 - JavaScript   
-- HTML / CSS 
+- HTML / CSS
+- C
+- Java
 - (dan mungkin akan terus bertambah...)
 
 ---
